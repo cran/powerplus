@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(phonTools, reduce.fraction)
+importFrom(MASS, fractions)
+import(expm)
+importFrom(Matrix, rankMatrix)
