@@ -1,6 +1,6 @@
-90abd56bad8b9859b673c70f3cf77d77 *DESCRIPTION
-099a8645c365ccc6d02be2817ee74e64 *NAMESPACE
-b8fc699c45dcda7120af1df424ace25d *R/Matexpfinal.R
-549eff2f3907db3d98df4f8414664f5b *R/explusfinal.R
-98c4bb2a2a50dc2ccfec2b982df47165 *man/Matexp.Rd
-b8e62c35426d11286609b7fd5cb05bcb *man/explus.Rd
+7d396f3f91c7562fc37a04da1336ceb5 *DESCRIPTION
+aeafe8ab8ac2f6f1dcc4873b110e07ae *NAMESPACE
+cec06d90ed80dac14045d697169df785 *R/MatpowV2.R
+208ff81ff66de387ad9c1cd824957108 *R/explusV2.R
+9dfcecb099841cb7e3b4cb6c38d25531 *man/MatpowV2.Rd
+ac3d626f4b3ec63d7ec8f6cf2e0e4374 *man/explusV2.Rd
