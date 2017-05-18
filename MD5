@@ -1,6 +1,6 @@
-c800d467ff065f9a6739c3ea462b125e *DESCRIPTION
+e81855708eaa2f10127d60f47a61ac6e *DESCRIPTION
 8a8c2624c356d03be7a24c68a95cad7f *NAMESPACE
-bb42b7eb66887dc78fbdcca65b804540 *R/MatpowV3.R
-e408fe82eed87fd769f061ec8456ed13 *R/explusV2.R
-f43b0c9a2b739fe7e988c9196fe84fba *man/Matpow.Rd
-4d95b2ebf67438291da09d44c2cbb194 *man/explus.Rd
+6e42dd6249d6ccc94d8dc41f2f99d6d5 *R/MatpowV4.R
+894ce3dfada3795afe610ac82fddf109 *R/explusV3.R
+7ee115ae0af4d0cd4f5549d7bb31ed51 *man/Matpow.Rd
+6903a3cd198d33fe7c447720a0be8b09 *man/explus.Rd
